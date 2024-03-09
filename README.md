@@ -7,6 +7,9 @@
   <a href="https://t.me/tulad95">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="TG Badge"/>
   </a>
+  <a href="mailto:link7800@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL Badge"/>
+  </a>
 <!--   <a href="https://x.com/Tulad58">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> -->
