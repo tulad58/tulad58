@@ -1,15 +1,15 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/vlad-belii-61a1b82ab?trk=contact-info">
+<!--   <a href="https://www.linkedin.com/in/vlad-belii-61a1b82ab?trk=contact-info">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/@tulad95">
+  </a> -->
+  <a href="https://t.me/tulad95">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="TG Badge"/>
   </a>
-  <a href="https://x.com/Tulad58">
+<!--   <a href="https://x.com/Tulad58">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
     
   </div>
   <img src="https://komarev.com/ghpvc/?username=tulad58&style=flat-square&color=blue" alt=""/>
@@ -19,18 +19,31 @@
 </h1>
 </div>
 
-### :man_technologist: About me
-I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+### :man_technologist: Обо мне
+Я начинающий Python Backend разработчик, стремящейся реализовать свой потэнциал в сфере IT.
 
-- :netology: Learning popular Python web frameworks like Flask or Django and building web applications using these frameworks.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vlad-belii-61a1b82ab?trk=contact-info)
-
----
+### 💼 Мои проекты
+⭐ <a href="https://github.com/tulad58/retail_orderAPI">API Сервис заказа товаров для розничных сетей</a>
+<p>Разработка backend части приложения, для автоматизации закупок в розничной сети через REST API. За основу был взят фреймворк Django и DRF. Для хранения информации была выбрана это объектно-реляционная система управления базами данных PostgreSQL.</p>
+<p></p>
+⭐ <a href="https://github.com/tulad58/VKinder/tree/main/Bot_4">Командный проект - чатбот для знакомств</a>
+<p>Разработана программа-бот на Python для взаимодействия социальной сетью ВКонтакте. Для создания чат-бота была спроектирована и реализована база данных, с использованием PostgreSQL. Настроено взаимодействие бота с vkAPI. Написана документация для использования программы.</p>
+<p></p>
+⭐ <a href="https://github.com/tulad58/flask">REST API (backend) для сайта объявлений</a>
+<p>На основе микрофреймворка Flask был разработан базовый каркас веб-приложения, предоставляющего API для управления пользователями и объявлениями. Реализованы методы создания, получения, изменения и удаления объектов пользователей и объявлений. Кроме того использовался Docker (Compose) для контейнерного развертывания базы данных PostgreSQL</p>
+<p></p>
+⭐ <a href="https://github.com/tulad58/celery_upscale">Асинхронное приложения для апскейлинга фото</a>
+<p>Данное приложение предоставляет API для асинхронного апскейлинга изображений на Celery с использованием модели EDSR. В качестве основы использовался микрофреймворк Flask.  В качестве broker и backend использовался Redis, который был поднят в контейнере Docker</p>
+<p></p>
+Суммирую оставшиеся проекты, хотелось бы добавить, что были достигнуты следующие результаты:
+<ul>
+  <li>Деплой учебного проекта на реальный сервер, используя Nginx как веб-сервер а для WSGI сервера - gunicorn. Для реализации использовался Windows Subsystem for Linux</li>
+  <li>Настройка CI/CD проекта на GitHub Actions, в результате автоматизированы тестирование и развертывание проекта</li>
+  <li>Разработан скрипт миграции базы данных искрипт загрузки данных из API в базу используя библиотеку asyncio</li>
+  <li>Написан асинхронный вариант сервиса объявлений на aiohttp</li>
+  <li>Создан парсер вакансий на сайте hh с использованием Selenium</li>
+  <li>Использовал regex для поиска и форматирование текста в телефонной книге</li>
+</ul>
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -44,7 +57,6 @@ I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql"  alt="postgresql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
----
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tulad58&theme=dark&background=000000)](https://git.io/streak-stats)
